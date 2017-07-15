@@ -193,8 +193,14 @@ body{
 	color:red;
 }
 .imag{
-	height:28px;
-	width:28px;
+	height:30px;
+	width:30px;
+}
+.imgg{
+	height:30px;
+	width:30px;
+	margin-top:-6px;
+	
 }
 	
 
