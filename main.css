@@ -129,9 +129,10 @@ body{
 
 #menu{
 	margin:-20px 0px 0px 40px;
+	
 }
 #main{
-	margin:-10px 10px 0px 0px;
+	margin:-10px 10px 0px -50px;
 }
 #message{
 	background-color:red;
@@ -202,5 +203,14 @@ body{
 	margin-top:-6px;
 	
 }
-	
-
+.post{
+	float:right;
+	padding-right:50;
+}
+#main{
+	height:1150px;
+}
+.sun{
+	float:right;
+	padding-right:50;
+}
