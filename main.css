@@ -132,7 +132,7 @@ body{
 	
 }
 #main{
-	margin:-10px 10px 0px -50px;
+	margin:-5px 0px 10px 10px;
 }
 #message{
 	background-color:red;
@@ -214,3 +214,4 @@ body{
 	float:right;
 	padding-right:50;
 }
+
